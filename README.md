@@ -73,7 +73,7 @@ We trained three models using `X_train` and `y_train`, then evaluated them on `X
 ## Usage
 To run the project, execute:
 ```bash
-python titanic_survival.py
+python main.py
 ```
 
 ## License
